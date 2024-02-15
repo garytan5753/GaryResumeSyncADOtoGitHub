@@ -1,14 +1,9 @@
 {
     "RepoList" : [
     {
-        "AzureRepoName":"Docker",
-        "ADOCloneURL":"dev.azure.com/CloudQuickLabs/DockerImageAzureWebApp/_git/Docker",
-         "GitHubCloneURL":"github.com/RekhuGopal/Docker.git"
-    },
-    {
-        "AzureRepoName":"CloudQuickLabsADO",
-        "ADOCloneURL":"dev.azure.com/CloudQuickLabs/CloudQuickLabsADO/_git/CloudQuickLabsADO",
-         "GitHubCloneURL":"github.com/RekhuGopal/CloudQuickLabsADO.git"
+        "AzureRepoName":"projectgtazureresume",
+        "ADOCloneURL":"dev.azure.com/garytan5753/projectgtazureresume/_git/projectgtazureresume",
+         "GitHubCloneURL":"github.com/garytan5753/projectgtazureresume.git"
     }
     ]
 }
